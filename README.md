@@ -38,5 +38,5 @@ Bash
 Open the app:
 Open your browser and visit http://localhost:5173 (or the port specified in your terminal).
 ```
- Contributing
+## Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
