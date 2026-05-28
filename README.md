@@ -37,6 +37,6 @@ Bash
    # OR if using Create React App: npm start
 Open the app:
 Open your browser and visit http://localhost:5173 (or the port specified in your terminal).
-
+```
  Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
