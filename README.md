@@ -1,16 +1,42 @@
-# React + Vite
+# React Calendar App 📅
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, responsive, and fully functional calendar application built with React. This app allows users to easily view, manage, and track events or dates within a clean user interface.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* **Interactive Calendar Grid:** Navigate through months and years seamlessly.
+* **Event Management:** Add, view, and organize events on specific dates.
+* **Responsive Design:** Optimized for both desktop and mobile viewing, ensuring the calendar looks great on any screen size.
+* **Intuitive UI:** Clean and modern aesthetic for straightforward scheduling and date tracking.
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Frontend:** React.js
+* **Styling:** CSS (Custom styling for the grid layout and modal/event components)
+* **Icons:** Boxicons
 
-## Expanding the ESLint configuration
+## Installation & Setup
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+To run this project locally on your machine:
+
+1. **Clone the repository:**
+```bash
+   git clone [https://github.com/rycek033/calendar-app.git](https://github.com/rycek033/calendar-app.git)
+Navigate into the directory:
+
+Bash
+   cd calendar-app
+Install the dependencies:
+
+Bash
+   npm install
+Start the development server:
+
+Bash
+   npm run dev
+   # OR if using Create React App: npm start
+Open the app:
+Open your browser and visit http://localhost:5173 (or the port specified in your terminal).
+
+ Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
